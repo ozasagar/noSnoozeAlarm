@@ -1,0 +1,7 @@
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\bin\Debug\netstandard2.0\noSnoozeAlarm.deps.json
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\bin\Debug\netstandard2.0\noSnoozeAlarm.dll
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\obj\Debug\netstandard2.0\noSnoozeAlarm.csprojAssemblyReference.cache
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\obj\Debug\netstandard2.0\noSnoozeAlarm.AssemblyInfoInputs.cache
+C:\PersonalProjects\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\noSnoozeAlarm\obj\Debug\netstandard2.0\noSnoozeAlarm.AssemblyInfo.cs
